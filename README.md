@@ -52,7 +52,7 @@ To start using this seeder project, follow these steps:
 1. **Clone the Repository**: Clone the repository to your local machine using the following command:
 
     ```bash
-      https://github.com/pradeep-c-gopai/nodejs-seeder.git
+    https://github.com/pradeep-c-gopai/nodejs-seeder.git
     ```
 
 2. **Install Dependencies**: Install project dependencies using npm or yarn:
