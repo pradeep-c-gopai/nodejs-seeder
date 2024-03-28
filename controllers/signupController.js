@@ -2,7 +2,7 @@ const { signupService } = require('../services/signupService');
 const messages = require('../common/messages');
 
 // Controller function to handle user signup request
-async function signup(req, res, next) {
+async function signup(req, res) {
     try {
         // Get email or username as per requirement
         const emailId = ''; // e.g., req.body.emailId;
