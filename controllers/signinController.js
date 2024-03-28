@@ -2,7 +2,7 @@ const { signinService } = require('../services/signinService');
 const messages = require('../common/messages');
 
 // Controller function to handle user sign-in request
-async function signin(req, res, next) {
+async function signin(req, res) {
     try {
         // Get email or username as per requirement
         const emailId = ''; // e.g., req.body.emailId;
